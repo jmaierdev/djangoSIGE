@@ -1,4 +1,4 @@
-# DjangoSIGE
+# DjangoSIGE teste
 
 Sistema Integrado de Gestão Empresarial baseado em Django
 
